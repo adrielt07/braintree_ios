@@ -1,0 +1,12 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/dmerino/work/braintree-ios/BraintreePaymentFlow/Public/LocalPayment/BTLocalPaymentResult.h",
+      "line": 71,
+      "symbol": "BTLocalPaymentResult.-initWithNonce:description:type:email:firstName:lastName:phone:billingAddress:shippingAddress:clientMetadataId:payerId:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/dmerino/work/braintree-ios"
+}
